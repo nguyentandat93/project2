@@ -110,3 +110,8 @@ nav ul li a {
 	text-decoration: none;
 	color: #72c8f8;
 }
+
+.fb-comments {
+	width: 100%;
+	padding: 40px 70px;
+}
